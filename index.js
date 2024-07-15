@@ -11,7 +11,7 @@ const ListMarkers = Object.freeze({
 
 const BookCollections = Object.freeze({
   TO_READ: "Tc4xQ",
-  READING: "V1sLd",
+  READING: "P0zaV",
   READ: "4KT35",
 });
 
