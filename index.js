@@ -10,7 +10,7 @@ const ListMarkers = Object.freeze({
 });
 
 const BookCollections = Object.freeze({
-  TO_READ: "Tc4xQ",
+  TO_READ: "P0zaV",
   READING: "V1sLd",
   READ: "4KT35",
 });
